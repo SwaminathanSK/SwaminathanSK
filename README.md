@@ -1,4 +1,3 @@
-### Hi there 👋
  👋 Hi, I’m Swaminathan S K (You can call me Swami)
 - 👀 I’m interested in Reinforcement Learning
 - 🌱 I’m currently in Indian Institute of Technology Kharagpur, Department of Computer Science and Engineering
