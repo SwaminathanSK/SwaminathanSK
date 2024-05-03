@@ -4,6 +4,7 @@
 - 📫 How to reach me :
 -   Email : swamisathya2004@gmail.com
 -   Institute Email: swami2004@kgpian.iitkgp.ac.in
+-   My website: <a href="https://swaminathansk.github.io/">Swaminathan S K</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SwaminathanSK&bg_color=00000000" />
 </a>
