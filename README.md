@@ -7,9 +7,6 @@
 -   My website: <a href="https://swaminathansk.github.io/">Swaminathan S K</a>
 -   My Google Scholar: <a href="https://scholar.google.com/citations?user=VMp51i0AAAAJ">S K Swaminathan</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SwaminathanSK&bg_color=00000000" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwaminathanSK&layout=donut&bg_color=00000000" />
 </a>
